@@ -1,0 +1,64 @@
+
+.wrapper {
+  display: block;
+  max-width: 100%;
+  font-family: 'Noto Sans Japanese',aaux-next,Helvetica,Arial,"Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3",メイリオ,Meiryo,"ＭＳ Ｐゴシック",sans-serif;
+}
+
+.fit {
+  width: 100%;
+}
+
+.main-img {
+  margin-top: -80px;
+}
+
+/* header logo */
+
+.title-header {
+  width: 90%;
+  position: relative;
+  top: 36px;
+  left: 29px;
+}
+
+.logo {
+  
+}
+
+#logo {
+ height: 60px;
+ margin-bottom: 20px;
+}
+
+/* section  */
+.main-section {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headline {
+  font-size: 4em;
+  line-height: 2em;
+}
+
+.description {
+  font-size: 2.1em;
+  line-height: 1.5em;
+}
+
+.thin {
+  font-weight: 100;
+  color: #4C4C4C;
+}
+
+.feature-section {
+  text-align: center;
+  margin-bottom: 55px;
+  margin-top: 20px;
+  color: #4C4C4C;
+}

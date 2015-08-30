@@ -11,4 +11,3 @@
   <header class="l-header">
     ヘッダーの中身
   </header>
-<div class="l-container">
